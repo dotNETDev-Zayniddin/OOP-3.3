@@ -12,8 +12,7 @@ namespace OOP
         static void Main(string[] args)
         {
             Sportsman boxers = new Sportsman();
-            boxers.WeightClassification();
-            
+            boxers.WeightClassification();        
         }
     }
 }
